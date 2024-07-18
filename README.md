@@ -1,6 +1,5 @@
 Sure, here is a README.md file based on the information from the documents you provided. I've included placeholders for images, which you can replace with the actual image paths or URLs.
 
-```markdown
 # Zappy
 
 ## Introduction
@@ -113,4 +112,4 @@ The Makefile should contain rules to compile `zappy_server`, `zappy_gui`, and `z
 - The graphical client should be developed using C++.
 - The interface must support at least a 2D visualization of the world.
 
-![GUI Development Image](path/to/menu.png)
+![GUI Development Image](images/menu.png)
