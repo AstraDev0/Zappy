@@ -6,7 +6,7 @@ Zappy is a tribute to Zaphod Beeblebrox. It is a network game where several team
 ## Binaries
 - `zappy_server`: Written in C, generates the inhabitants' world.
 - `zappy_gui`: Written in C++, visualizes the world.
-- `zappy_ai`: No language constraint, drives an inhabitant through orders sent to the server.
+- `zappy_ai`: Written in Python3.
 
 ## Usage
 
