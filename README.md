@@ -1,5 +1,3 @@
-Sure, here is a README.md file based on the information from the documents you provided. I've included placeholders for images, which you can replace with the actual image paths or URLs.
-
 # Zappy
 
 ## Introduction
